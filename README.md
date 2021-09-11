@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emoryH
+- 👋 Hi, I’m Derek
 - 👀 I'm interested in microservices and system design.
 - 🤔 I’m currently learning JVM.
 - 💪 If I have enough time this year, I will learn Rust.
